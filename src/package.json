@@ -14,7 +14,7 @@
   "dependencies": {
     "debug": "^4.3.1",
     "express": "^4.22.3",
-    "express-session": "^1.17.1",
+    "express-session": "^1.19.0",
     "qrcode": "^1.4.4",
     "uuid": "^14.0.0"
   },
